@@ -1,0 +1,24 @@
+{
+  "name": "udemy-api-node-tdd-seubarriga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/** test/** --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniodecastroalves/udemy-api-node-tdd-seubarriga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniodecastroalves/udemy-api-node-tdd-seubarriga/issues"
+  },
+  "homepage": "https://github.com/antoniodecastroalves/udemy-api-node-tdd-seubarriga#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
